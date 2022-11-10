@@ -1,3 +1,3 @@
 
 [//]: # (![alt text]&#40;screenshots/tip_n_split.jpg&#41;)
-<img src="screenshots/tip_n_split.jpg" alt="ss" height="400" width="300"/>
+<img src="screenshots/tip_n_split.jpg" alt="ss" height="450" width="250"/>
