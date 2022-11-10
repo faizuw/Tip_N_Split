@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
 
         minus.setOnClickListener {
 
-
+                num=1
             if (num > 1) {
                 num--
             }
