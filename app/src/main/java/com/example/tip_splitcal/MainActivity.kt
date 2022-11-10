@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
 //        getSupportActionBar()?.hide();
 
         setContentView(R.layout.activity_main)
-        var num = 0
+        var num = 1
         billAmount = findViewById(R.id.idBill)
         tipAmount = findViewById(R.id.idtip)
         totalAmount = findViewById(R.id.totalAmount)
@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
 
         minus.setOnClickListener {
 
-                num=1
+
             if (num > 1) {
                 num--
             }
